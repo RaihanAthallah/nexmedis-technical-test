@@ -4,6 +4,8 @@
 
 The E-Commerce API provides endpoints for user authentication, product browsing, cart management, order checkout, and banking transactions such as deposits and withdrawals.
 
+![image](https://github.com/user-attachments/assets/535d9654-906d-4355-bfad-3d626cdd4cd0)
+
 ## Base URL
 
 ```
